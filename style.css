@@ -1,0 +1,105 @@
+
+/**********header section***********/
+
+header nav{
+  border-bottom: 3px solid #0C71A3;
+  background-color: #292b2c;
+  opacity: .9;
+}
+
+header nav .navbar-toggler{
+  border:none;
+  outline: none;
+}
+
+
+/**********middle section***********/
+/**************home******/
+.home-section{
+  background-image: url(img/home.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 710px;
+  width: 100%;
+}
+
+.home-section .black-overlay{
+  background-color: rgba(0,0,0,.7);
+  min-height: 710px;
+  padding-top: 50px;
+}
+
+section .home-section .row{
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.home-section i{
+  font-size: 27px;
+  background: #fff;
+  color: #009CE4;
+  border-radius: 6px;
+  padding: 5px;
+}
+
+section .home-section .card{
+  opacity: .8;
+}
+
+
+/**********explore*********/
+
+.explore-head{
+  background-color:#333333;
+}
+.explore-body i{
+  font-size: 27px;
+  color: #fff;
+  background-color: #333;
+  border-radius: 6px;
+  padding: 5px;
+}
+
+/*............create............*/
+#create{
+  background-color:#333333;
+}
+.create-body i{
+  font-size:27px;
+  color:#008ED6;
+  background-color:#fff;
+  padding: 5px;
+  border-radius: 6px;
+}
+/*.........share.........*/
+
+.share-body i{
+  font-size:27px;
+  color:#fff;
+  background-color:#333;
+  padding: 5px;
+  border-radius: 6px;
+}
+/**********footer section***********/
+
+footer{
+  background-color: #333;
+}
+
+
+
+
+/**********************responsive section start here******************/
+
+
+/**********responsive header section*******/
+
+
+
+/**********responsive middle section*******/
+
+
+
+/**********responsive footer section*******/
